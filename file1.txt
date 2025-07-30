@@ -1,2 +1,4 @@
 Now its branch 2 .. 
 I'm working in Branch 2 
+i've shifted in branch3
+Currently i'm in branch3
